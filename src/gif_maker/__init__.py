@@ -1,0 +1,1 @@
+from gif_maker.make_gif import make_gif
